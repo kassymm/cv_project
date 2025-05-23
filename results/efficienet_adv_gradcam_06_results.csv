@@ -1,4 +1,4 @@
-index,pred_class,true_bbox,cam_bboxes,efficientnet_iou
+index,pred_class,true_bbox,cam_bboxes,efficientnet_adv_iou
 newfoundland_31,22,"[60.928000000000004, 54.024, 107.072, 132.608]","[64, 53, 100, 102]",0.7060763117163729
 pug_57,25,"[84.224, 72.84, 139.776, 113.34400000000001]","[71, 64, 102, 93]",0.41839211548370187
 american_bulldog_80,15,"[77.952, 100.616, 89.152, 47.04]","[60, 69, 89, 91]",0.37339322274913544
